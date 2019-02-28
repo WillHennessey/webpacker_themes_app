@@ -1,0 +1,1 @@
+import './superhero.scss';
